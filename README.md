@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eunseolee00
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Software Engineering
 
 <!---
 eunseolee00/eunseolee00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
